@@ -14,7 +14,7 @@ pipeline{
                         sh './gradlew sonarqube'
                 }
 
-                }
+                }o
             }
             
         }
